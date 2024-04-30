@@ -42,7 +42,7 @@ What didn’t go well?
 We could have started implementing a lot earlier than we did. We started a little late so we had to rush to finish implementing, debugging, and testing our feature by the deadline. We also didn’t follow the timeline of our sprints like we were supposed to. 
 
 What can be improved?
-We can make our payment system more user interactable by allowing the user to input the base amount of money in the robot’s wallet. We can also improve our time management and make sure that we follow our sprint timeline so we’re not rushing near the deadline. 
+We can make our payment system more user interacive by allowing the user to input the base amount of money in the robot’s wallet. We can also improve our time management and make sure that we follow our sprint timeline so we’re not rushing near the deadline. 
 
 Youtube:
 
